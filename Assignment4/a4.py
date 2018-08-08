@@ -2,6 +2,7 @@ import matplotlib.pyplot as plt
 import math
 from collections import Counter
 
+# Declare Cities
 cities = [(-86.75, 33.5666666666667, 'Python'), (-88.25, 30.6833333333333, 'Python'),
           (-112.016666666667, 33.4333333333333, 'Java'), (-110.933333333333, 32.1166666666667, 'Java'),
           (-92.2333333333333, 34.7333333333333, 'R'), (-121.95, 37.7, 'R'), (-118.15, 33.8166666666667, 'Python'),
